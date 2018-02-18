@@ -1,0 +1,14 @@
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\bin\Debug\ArchonAssist_SecondOption.exe.config
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\bin\Debug\ArchonAssist_SecondOption.exe
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\bin\Debug\ArchonAssist_SecondOption.pdb
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.csprojResolveAssemblyReference.cache
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.Form1.resources
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.Properties.Resources.resources
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.csproj.GenerateResource.Cache
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.csproj.CoreCompileInputs.cache
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.exe
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.pdb
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\bin\Debug\en-US\ArchonAssist_SecondOption.resources.dll
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.Form1.en-US.resources
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\en-US\ArchonAssist_SecondOption.resources.dll
+C:\Users\AngelicaJeninaPearl\Pictures\Void Corps\machine learning\ArchonAssist_SecondOption\ArchonAssist_SecondOption\obj\Debug\ArchonAssist_SecondOption.Form2.resources
